@@ -1,0 +1,7 @@
+task.c:46:6:StartStop	8	static
+task.c:85:6:Reset	8	static
+task.c:131:6:ssr1	56	static
+task.c:202:6:ssr2	56	static
+task.c:272:6:ssr3	56	static
+task.c:342:6:lcd	56	static
+task.c:396:6:HAL_TIM_PeriodElapsedCallback	16	static
